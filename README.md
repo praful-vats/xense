@@ -1,1 +1,1 @@
-#GAN text to image react app
+# GAN text to image react app
